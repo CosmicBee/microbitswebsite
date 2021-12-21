@@ -6,4 +6,12 @@ html {
 
 h1 {
   font-family: "Gwendolyn", cursive;
+  font-size: 60px;
+}
+h2 {
+  font-size: 20px;
+}
+ol {
+  text-align: center;
+  list-style-position: inside;
 }
